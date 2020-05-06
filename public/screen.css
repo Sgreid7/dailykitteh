@@ -14,7 +14,7 @@ body {
 }
 
 main {
-  background-color: whitesmoke;
+  background-color: rgb(221, 242, 243);
   width: 65%;
   margin: 0 auto;
   display: flex;
@@ -23,7 +23,7 @@ main {
 
 main p {
   margin-top: 1rem;
-  padding: .1rem;
+  padding: 0.1rem;
   line-height: 1.2;
 }
 
@@ -34,7 +34,7 @@ section {
 }
 
 section header {
-  background-color: whitesmoke;
+  background-color: rgb(221, 242, 243);
   padding: 0.1rem;
 }
 
@@ -55,7 +55,7 @@ nav {
   margin: 0;
   color: #fff;
   text-decoration: underline;
-  background-color: rgb(37, 191, 214);
+  background-color: rgb(0, 191, 213);
 }
 
 nav ul {
@@ -67,12 +67,12 @@ nav ul {
 }
 
 nav li {
-  padding: .5rem;
-  margin: 0
+  padding: 0.5rem;
+  margin: 0;
 }
 
 aside {
-  border: 2px solid rgb(37, 191, 214);
+  border: 2px solid rgb(0, 191, 213);
   margin-top: 0.8rem;
   margin-left: 1rem;
   margin-right: 1rem;
@@ -92,7 +92,6 @@ h2 {
   margin-top: 2rem;
 }
 
-
 img {
   height: 150px;
   width: 150px;
@@ -103,7 +102,7 @@ footer {
   margin: 0 auto;
   display: flex;
   justify-content: center;
-  background-color: rgb(218, 209, 209);
+  background-color: rgb(211, 211, 211);
   width: 65%;
   padding: 0;
 }
@@ -112,7 +111,7 @@ footer ul {
   display: flex;
   justify-content: center;
   list-style: none;
-  margin: .5rem;
+  margin: 0.5rem;
 }
 
 footer li {
